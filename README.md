@@ -21,7 +21,9 @@ llamadas al mismo tiempo (de modo concurrente).
 Cada llamada puede durar un tiempo aleatorio entre 5 y 10
 segundos.
 * Debe tener un test unitario donde lleguen 10 llamadas.
+
 ###Extras/Plus
+
 * Dar alguna solución sobre qué pasa con una llamada cuando no hay
 ningún empleado libre.
 * Dar alguna solución sobre qué pasa con una llamada cuando entran
